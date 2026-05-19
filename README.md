@@ -1,4 +1,4 @@
-#Smart Classroom Assistant
+# Smart Classroom Assistant
 An AI-powered assistant designed to enhance the educational experience within classroom environments by providing intelligent, context-aware support for both students and instructors.
 Overview
 The Smart Classroom Assistant is a conversational AI application that acts as an interactive academic companion. It is capable of answering subject-related questions, explaining concepts, and supporting learning activities in real time. The system is built to understand natural language input and respond in a helpful, educational manner tailored to the academic context.
