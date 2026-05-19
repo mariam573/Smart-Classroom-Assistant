@@ -1,0 +1,5 @@
+timestamp,student_id,student_name,question,subject
+2026-05-10T22:28:10.827024,22100512,Youssef,what is gradient descent,Maths
+2026-05-10T22:28:40.543926,22100512,Youssef,explain the chain rule in calc,Maths
+2026-05-10T22:29:10.627740,22100512,Youssef,how does object detection works,Computer Vision
+2026-05-10T22:29:29.146300,22100512,Youssef,what is thermodynamics,Physics
